@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CA0B
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning a lot of new features.
-- 💞️ I’m looking to collaborate on big scale.
+- 💞️ I’m looking to collaborate on a big scale.
 - 📫 How to reach me... unknown error enter reliable content
 
 <!---
